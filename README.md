@@ -7,7 +7,7 @@ Welcome to the project homepage. Below you will find links to PDF documents and 
 
 ## 📄 PDF Documents
 
-* [Introduction to Topological Data Analysis](Introduction_to_Topological_Data_Analysis.pdf)
+* [Introduction to Topological Data Analysis](Introducation_to_Topolgical_Data_Analysis.pdf)
 * [Topological Data Analysis Examples](Topolgocial_Data_Analysis_Example.pdf)
 
 ---
