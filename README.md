@@ -1,3 +1,3 @@
 # Topological-Data-Analysis-in-Physics
 
-- [Paper 1](Introdution_to_Topolgical_Data_Analysis.pdf)
+- [Introduction to Topolgical Data Analysis](Introducation_to_Topolgical_Data_Analysis.pdf)
