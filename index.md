@@ -1,12 +1,11 @@
 ---
-
-title: Topological Data Analysis in Physics
+title: "Topological Data Analysis in Physics"
 theme: cayman
--------------
+---
 
 # Topological Data Analysis in Physics
 
-Welcome to the project homepage. Below you will find links to PDF documents and Jupyter notebooks related to Topological Data Analysis (TDA)
+Welcome to the project homepage. Below you will find links to PDF documents and Jupyter notebooks related to Topological Data Analysis (TDA).
 
 ---
 
