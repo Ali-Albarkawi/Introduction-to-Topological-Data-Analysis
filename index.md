@@ -1,7 +1,3 @@
----
-title: "Topological Data Analysis in Physics"
-theme: cayman
----
 
 # Topological Data Analysis in Physics
 
